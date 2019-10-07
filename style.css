@@ -1,0 +1,29 @@
+img{
+ height : 400px;
+ width : 400px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}
+body 
+{
+	font-family: Jazz LET, fantasy;
+	font-size: 40px;
+color: black;
+}
+table{
+	width : 100%;
+}
+td{
+	text-align : center;
+}
+body{
+	  background-image: url("https://images.homedepot-static.com/productImages/40532b86-3d14-44e5-9c99-b837528c9611/svn/chesapeake-wallpaper-tot47601sam-64_1000.jpg");
+  background-size: 50%;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}
+.highlight{
+	background-color: white;
+}

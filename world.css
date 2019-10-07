@@ -1,0 +1,25 @@
+h3{
+ height : 40px;
+ width : 40px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}
+img{
+ height : 500px;
+ width : 600px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}
+body{
+font-family:Jazz LET, fantasy;
+font-size:20px;
+}
+body{
+	background-image: url("https://cdn11.bigcommerce.com/s-3p90sxcn/images/stencil/1280x1280/products/528/2935/CloudsSmokeyBlueWallpaper__92221.1549297301.jpg?c=2&imbypass=on");
+  background-size: 50%;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}

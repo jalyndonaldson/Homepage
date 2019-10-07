@@ -1,0 +1,22 @@
+img{
+font-family:Jazz LET, fantasy;
+font-size:20px;
+height : 400px;
+ width : 400px ;
+border : solid white;
+ border-radius : 100%;
+}
+body{
+	background-image: url("https://cdn.shopify.com/s/files/1/1705/8535/products/308102_1024x1024.jpg?v=1492218832");
+  background-size: 50%;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}
+h3{
+ height : 40px;
+ width : 40px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}

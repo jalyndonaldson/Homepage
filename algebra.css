@@ -1,0 +1,23 @@
+h3{
+ height : 40px;
+ width : 40px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}
+img{
+font-family:Jazz LET, fantasy;
+font-size:20px;
+height : 400px;
+ width : 400px ;
+border : solid white;
+ border-radius : 100%;
+}
+
+body{
+	background-image: url("https://images.homedepot-static.com/productImages/af308cf2-0703-4c8a-8665-ca4800955fe3/svn/brewster-wallpaper-2734-24890sam-64_600.jpg");
+  background-size: 50%;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}

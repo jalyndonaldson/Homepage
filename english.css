@@ -1,0 +1,23 @@
+h3{
+ height : 40px;
+ width : 40px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}
+img{
+font-family:Jazz LET, fantasy;
+font-size:20px;
+height : 400px;
+ width : 400px ;
+border : solid white;
+ border-radius : 100%;
+}
+
+body{
+	background-image: url("https://images.homedepot-static.com/productImages/53b84a3e-7e5b-4d11-9824-2c79922caf7d/svn/graham-brown-wallpaper-51-058-64_600.jpg");
+  background-size: 50%;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}

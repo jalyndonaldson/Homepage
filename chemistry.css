@@ -1,0 +1,23 @@
+img{
+font-family:Jazz LET, fantasy;
+font-size:20px;
+height : 400px;
+ width : 400px ;
+border : solid white;
+ border-radius : 100%;
+}
+
+body{
+	background-image: url("https://www.janeclayton.co.uk/Product_Images/fullzoom/Sanderson-ElysianWallpapers-SilviClouds-216599-01.jpg");
+  background-size: 50%;
+  background-position: center;
+  height: 700px;
+  width: 100%;
+}
+h3{
+ height : 40px;
+ width : 40px ;
+ border : solid white;
+ border-radius : 100%;
+ 
+}
